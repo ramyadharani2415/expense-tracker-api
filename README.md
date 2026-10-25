@@ -1,5 +1,7 @@
 # Expense Tracker REST API
 
+**Live API:** https://expense-tracker-api-wngk.onrender.com (free hosting, the first request may take up to a minute to wake up)
+
 A REST API built with Python, Flask and SQLite to manage personal expenses, with user registration, login and JWT authentication.
 
 ## Features
